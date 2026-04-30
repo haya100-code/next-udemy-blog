@@ -6,7 +6,7 @@ const nextConfig: NextConfig = {
     remotePatterns: [
       {
         protocol:'https',
-        hostname: 'piosum.photos',
+        hostname: 'picsum.photos',
       },
     ],
   }
